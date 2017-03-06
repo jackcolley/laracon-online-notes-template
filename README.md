@@ -1,7 +1,7 @@
 # Laracon Online Notes Template
 
 ## Schedule
-Please note all times are in GMT - Conversions are available [https://haakym.github.io/laracon-online-schedule-2017/#GB](here)
+Please note all times are in GMT - Conversions are available [here](https://haakym.github.io/laracon-online-schedule-2017/#GB)
 
 ### 13:00 - Mingle in Slack
 ### 13:45 - Opening Remarks
